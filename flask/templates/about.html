@@ -1,4 +1,51 @@
 {% extends 'base.html' %}
 {% block content %}
-    <h2>About</h2>
-{% endblock %}
+
+{% for number in list_of_numbers %}
+    <p>{{ number }}</p>
+{% endfor %}
+
+<h2>{{ page_title }}</h2>
+<p>
+	The family battles a parasite that implants fake memories into their heads, which leads them to wonder if they are
+	real themselves.
+</p>
+<p>
+	The Smith Family is having breakfast with Jerry's older brother, Uncle Steve, when Jerry receives an email about
+	purchased plane tickets. Uncle Steve then admits that he bought them as a thank you to the family for letting him
+	stay for the past year. When Rick comes into the room, he doesn't know who Uncle Steve is, and the family rebuffs
+	him, claiming that Uncle Steve has stayed with them for the past year. Rick then pulls out a laser pistol and shoots
+	Uncle Steve in the head who turns out to be a monstrous figure. While the Smith family gasp in shock at the
+	realization that Uncle Steve wasn't real, Rick informs them that he was a parasite, an alien species that survive
+	and multiply by implanting fake memories into people's head so they can conquer planets. He tells them to be aware
+	of "wacky, zany characters that suddenly appear" and is encouraged by a newly introduced zany character, Mr.
+	Poopybutthole.
+</p>
+<div class="row featurette">
+	<div class="col-md-7">
+		<h3>Rick Sanchez</h3>
+		<p>
+			Rick Sanchez is the co-eponymous main character and leading protagonist of the show. He is a genius
+			scientist whose alcoholism and reckless, nihilistic behavior are a source of concern for his daughter's
+			family, as well as the safety of their son, Morty. He is voiced by Justin Roiland. He is later revealed to
+			be Morty's cousin in an interview with Roiland himself.
+		</p>
+	</div>
+	<div class="col-md-5">
+		<img src="https://upload.wikimedia.org/wikipedia/en/e/e9/Rick_and_Morty_characters_-_Rick_Sanchez.jpg" alt="">
+    </div>
+	</div>
+	<div class="row featurette">
+		<div class="col-md-5">
+			<img src="http://screenprism.com/assets/img/article/Morty.JPG" alt="">
+    </div>
+			<div class="col-md-7">
+				<h3>Morty Smith</h3>
+				<p>
+					Mortimer "Morty" Smith Sr. is one of the two eponymous main protagonists in Rick and Morty. He is
+					the grandson of Rick and is often forced to tag along on his various misadventures. Morty attends
+					Harry Herpson High School along with his sister, Summer.
+				</p>
+			</div>
+		</div>
+		{% endblock %}
