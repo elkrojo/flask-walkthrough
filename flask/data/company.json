@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Rick Sanchez",
+        "description": "Rick Sanchez is the co-eponymous main character and leading protagonist of the show. He is a genius scientist whose alcoholism and reckless, nihilistic behavior are a source of concern for his daughter's family, as well as the safety of their son, Morty. He is voiced by Justin Roiland. He is later revealed to be Morty's cousin in an interview with Roiland himself.",
+        "image_source": "https://upload.wikimedia.org/wikipedia/en/e/e9/Rick_and_Morty_characters_-_Rick_Sanchez.jpg"
+    },
+    {
+        "name": "Morty Smith",
+        "description": "Mortimer 'Morty' Smith Sr. is one of the two eponymous main protagonists in Rick and Morty. He is the grandson of Rick and is often forced to tag along on his various misadventures. Morty attends Harry Herpson High School along with his sister, Summer.",
+        "image_source": "http://screenprism.com/assets/img/article/Morty.JPG"
+    },
+    {
+        "name": "Jerry Smith",
+        "description": "Jerry is the husband of Beth Smith, the father of Summer Smith and Morty Smith, and the son-in-law of Rick Sanchez and Mrs. Sanchez/Diane Sanchez. He is also the son of Leonard Smith and Joyce Smith and the nephew of the Unnamed Uncle. He currently acts as the father and the son-in-law of the Morty Smith and Rick Sanchez from Dimension C-137, respectively.",
+        "image_source": "https://vignette.wikia.nocookie.net/rickandmorty/images/f/f1/Jerry_Smith.png"
+    },
+    {
+        "name": "Beth Smith",
+        "description": "The details of Beth's history are relatively unknown, she was born from Rick Sanchez and Mrs. Sanchez/Diane Sanchez, she has recounted herself as a 'bright-eyed' woman from Muskegon, Michigan in Meeseeks and Destroy. At some point during her childhood, her parents' marriage deteriorated amid unknown circumstances and her father left her mother.",
+        "image_source": "https://vignette.wikia.nocookie.net/rickandmorty/images/5/58/Beth_Smith.png"
+    },
+    {
+        "name": "Summer Smith",
+        "description": "Summer Smith is the daughter of Jerry Smith and Beth Smith, the older sister of Morty Smith, the granddaughter of Leonard Smith, Joyce Smith, Rick Sanchez and Mrs. Sanchez/Diane Sanchez, the great-granddaughter of Rick's Father and a unnamed woman, and the great-niece of the Unnamed Uncle.",
+        "image_source": "https://vignette.wikia.nocookie.net/rickandmorty/images/a/ad/Summer_is_cool.jpeg"
+    },
+    {
+        "name": "Mr. Poopybutthole",
+        "description": "Mr. Poopybutthole is a very good friend to the Smith Family, from another dimension (where he is a planet wide superstar) who has taken refuge with the Smiths so he can live a normal life [as started in the comic series 'Lil Poopy Superstar' issue 1-5], he is described as a long-time friend of the family. Rick clearly considers him to have long been a dependable person.",
+        "image_source": "https://vignette.wikia.nocookie.net/rickandmorty/images/3/37/Mr_poopy_butthole.png"
+    },
+    {
+        "name": "Sleepy Gary",
+        "description": "Sleepy Gary first appears in a memory planted by Mr. Beauregard. In it, his 'father-in-law' Rick, his 'daughter' Summer, and Mr. Beauregard are having a pillow fight in Summer's room. Sleepy Gary barges in and berates them for being loud while he tries to sleep. He appears in every flashback afterwards.",
+        "image_source": "https://vignette.wikia.nocookie.net/rickandmorty/images/9/9c/Sleepy_Gary_Better_Image.png"
+    },
+    {
+        "name": "Cousin Nicky",
+        "description": "In a flashback scene, he is shown saving the Smith family and Mr. Poopybutthole from within a broken elevator after they see the Hulk Musical. He was also present when the family was captured by a Nazi while on board a Nazi submarine until they are saved by Mr. Beauregard. Like many of the other characters within the episode, he is a persona taken by the Alien Parasites.",
+        "image_source": "https://vignette.wikia.nocookie.net/rickandmorty/images/f/fa/Cousin_Nicky.png"
+    }
+]
